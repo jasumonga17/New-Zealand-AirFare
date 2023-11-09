@@ -1,7 +1,10 @@
 # New-Zealand-AirFare
 
+•	Mastered PySpark proficiently to manipulate the data and used cloud services like Azure for the storage and processing of a large-scale dataset containing 160k records.
 
-**AirNewZealand**<br>
+•	Designed and crafted a user-friendly front-end application for customers to input their travel details and obtain estimated pricing, resulting in user engagement.
+
+**AirNewZealand** <br>
 
 <img width="363" alt="image" src="https://github.com/jasumonga17/New-Zealand-AirFare/assets/76562774/247eba2b-68b3-4b43-a27f-e9b9dd748d3f">
 
