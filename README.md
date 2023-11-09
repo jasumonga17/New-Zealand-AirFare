@@ -1,8 +1,8 @@
 # New-Zealand-AirFare
 
-**Air NewZealand**
 
 <img width="363" alt="image" src="https://github.com/jasumonga17/New-Zealand-AirFare/assets/76562774/247eba2b-68b3-4b43-a27f-e9b9dd748d3f">
+AirN
 
 **Jetstar**
 
