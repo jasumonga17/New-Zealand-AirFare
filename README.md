@@ -6,7 +6,7 @@
 
 **Language Used** : PySpark
 
-**Cloud Services** : Azure
+**Cloud Service** : Azure
 
 **AirNewZealand** <br>
 
