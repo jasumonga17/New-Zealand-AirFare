@@ -1,8 +1,12 @@
 # New-Zealand-AirFare
 
-•	Mastered PySpark proficiently to manipulate the data and used cloud services like Azure for the storage and processing of a large-scale dataset containing 160k records.
+•	Mastered PySpark proficiently to manipulate the data and use cloud services like Azure for the storage and processing of a large-scale dataset containing 160k records.
 
 •	Designed and crafted a user-friendly front-end application for customers to input their travel details and obtain estimated pricing, resulting in user engagement.
+
+**Language Used** : PySpark
+
+**Cloud Services** : Azure
 
 **AirNewZealand** <br>
 
